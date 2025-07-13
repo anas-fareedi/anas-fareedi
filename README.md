@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkali&label=Profile%20views&color=EE4B2B&style=flat" alt="sameerkali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-fareedi&label=Profile%20views&color=EE4B2B&style=flat" alt="anas-fareedi" /> </p>
 <img src="./SameerFaridi_banner.png" alt="">
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
@@ -14,10 +14,10 @@
 
 
 
-## 📫 How to reach me **work.sameerfaridi@gmail.com**
+## 📫 How to reach me **work.anas@gmail.com**
 
-## 👨‍💻 All of my projects are available at [sameerfaridi.in](https://sameerfaridi.in/)
-## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wjzo6y5YhC53rJ9cEITVqbZ3X6FyMgug/view?usp=sharing)
+## 👨‍💻 All of my projects are available at [https://anas-fareedi-in.netlify.app/)
+## 📄 Know about my experiences [Resume]()
 
 
 
