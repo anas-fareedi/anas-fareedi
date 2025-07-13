@@ -5,7 +5,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">Im a handson software engineer who loves solving messy problems. React and Node.js are my goto tools, and I worry about performance and clean architecture every step of the way. Ive led small fullstack teams, and Im just as comfortable writing UI components as tuning database queries. Shipping features that actually improve a customers day is why I show up.
+<h3 align="center">I blend backend engineering with machine learning using FastAPI and TensorFlow. Whether I’m scaling APIs or fine-tuning models, I care about performance, maintainability, and shipping features that create real value. I’ve led teams and delivered across the stack.
 </h3>
 
 
@@ -22,9 +22,9 @@
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div> <a href="https://twitter.com/Sameer_faridi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sameer-faridi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sameerkali" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://twitter.com/anas_fareed04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anas-fareedi-a0780a275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/anas-fareedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="sameerkali" height="30" width="40" /></a><a href="https://hashnode.com/@SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="@SameerKali" height="30" width="40" /></a><a href="https://www.hackerrank.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="SameerKali" height="30" width="40" /></a><a href="https://www.leetcode.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="SameerKali" height="30" width="40" /></a><a href="https://www.hackerearth.com/@SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@SameerKali" height="30" width="40" /></a><a href="https://dev.to/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="sameerkali" height="30" width="40" /></a></p>
