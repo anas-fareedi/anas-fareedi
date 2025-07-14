@@ -88,6 +88,9 @@ No activity tracked
 </p>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anas-fareedi&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 
