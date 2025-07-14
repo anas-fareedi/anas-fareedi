@@ -81,9 +81,11 @@ No activity tracked
 ------------------------------------------
 ------------------------------------------
 
+### 🔥 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&theme=radical" alt="anas-fareedi" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 
