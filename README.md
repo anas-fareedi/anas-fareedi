@@ -93,7 +93,7 @@ No activity tracked
 ------------------------------------------
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerkali&" alt="sameerkali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&" alt="anas-fareedi" /></p>
 
 
 
