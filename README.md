@@ -17,7 +17,7 @@
 ## 📫 How to reach me **work.anas@gmail.com**
 
 ## 👨‍💻 All of my projects are available at [https://anas-fareedi-in.netlify.app/)
-## 📄 Know about my experiences [Resume]()
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1USY933Fh-tFMuqaYNn-5ikBFVBXSWzdW/view?usp=drivesdk)
 
 
 
