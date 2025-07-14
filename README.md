@@ -78,22 +78,11 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-<!-- ------------------------------------------ -->
-<!-- --------------FOLLOWERS------------------- -->
-<!-- ------------------------------------------ -->
-
-
-
-
-<!--START_SECTION:top-followers-->
-
-
-
 ------------------------------------------
 ------------------------------------------
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&" alt="anas-fareedi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&theme=radical" alt="anas-fareedi" /></p>
 
 
 
