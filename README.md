@@ -17,7 +17,7 @@
 ## 📫 How to reach me **work.anas@gmail.com**
 
 ## 👨‍💻 All of my projects are available at [https://anas-fareedi-in.netlify.app/)
-## 📄 Know about my experiences [Resume]()
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1USY933Fh-tFMuqaYNn-5ikBFVBXSWzdW/view?usp=drivesdk)
 
 
 
@@ -27,7 +27,7 @@
 <a href="https://github.com/anas-fareedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="SameerKali" height="30" width="40" /></a><a href="https://www.leetcode.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg"  alt="@SameerKali" height="30" width="40" /></a><a href="https://dev.to/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="sameerkali" height="30" width="40" /></a></p>
+<a href="https://www.hackerrank.com/profile/anasfareedi78671" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="anasfareedi" height="30" width="40" /></a><a href="https://leetcode.com/u/AnasFareedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg"  alt="@anasfareedi" height="30" width="40" /></a><a href="https://dev.to/anas_fareedi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="anasfareedi" height="30" width="40" /></a></p>
 
                                                                                                                                                                                                 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -85,11 +85,6 @@ No activity tracked
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-fareedi&theme=radical" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anas-fareedi&theme=radical" alt="GitHub Streak" />
 </p>
 
 
