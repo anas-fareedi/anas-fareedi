@@ -40,15 +40,14 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
 </a>
-
 <!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
 </a>
 
 <!-- Streamlit -->
 <a href="https://streamlit.io/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/streamlit-logo-icon.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/>
 </a>
 
 <!-- Flask -->
