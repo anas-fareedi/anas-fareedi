@@ -36,6 +36,26 @@
   
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+
+<!-- Streamlit -->
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/streamlit-logo-icon.svg" alt="Streamlit" width="40" height="40"/>
+</a>
+
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
+</a>
+
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
