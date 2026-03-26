@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me **work.anas@gmail.com**
 
-## 👨‍💻 All of my projects are available at [https://anas-fareedi-in.netlify.app/)
+## 👨‍💻 All of my projects are available at [https://my-personal-portfolio-seven-sooty.vercel.app/]
 ## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1USY933Fh-tFMuqaYNn-5ikBFVBXSWzdW/view?usp=drivesdk)
 
 
