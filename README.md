@@ -93,17 +93,27 @@
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-orignal.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/openCV.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/YOLO.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/motia.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/Langchain.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/LangGraph.svg" width="40"/></td>
   </tr>
 
   <tr>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/claude.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/openai.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40"/></td>    
+    <td><img src="https://cdn.worldvectorlogo.com/logos/huggingface.svg" width="40"/></td>    
+    <td><img src="https://cdn.worldvectorlogo.com/logos/kaggle.svg" width="40"/></td>    
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" width="40"/></td>
     <td><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/></td>
