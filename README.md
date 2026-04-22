@@ -66,6 +66,9 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
     <td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td> <!-- LangChain -->
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
+    <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
+    <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
+    <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
 </tr>
 
 <tr>
