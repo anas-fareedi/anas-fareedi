@@ -64,13 +64,13 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></td>  
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
-    <td><img src="https://seeklogo.com/images/A/anthropic-logo-2E7C6F8E3B-seeklogo.com.png" width="40"/></td>
     <td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td> <!-- LangChain -->
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
 </tr>
 
 <tr>
   <td><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40"/></td> <!-- fallback -->
+  <td><img src="https://logo.clearbit.com/anthropic.com" width="40"/></td> <!-- Claude (Anthropic) -->
   <td><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/></td>
   <td><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/></td> <!-- n8n -->
   <td><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/></td>  
