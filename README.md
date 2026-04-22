@@ -30,17 +30,21 @@
 <!-- <p align="left">
 <a href="https://www.hackerrank.com/profile/anasfareedi78671" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="anasfareedi" height="30" width="40" /></a><a href="https://leetcode.com/u/AnasFareedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg"  alt="@anasfareedi" height="30" width="40" /></a><a href="https://dev.to/anas_fareedi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="anasfareedi" height="30" width="40" /></a></p> --> 
 
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
+<p align="left">
   <a href="https://www.hackerrank.com/profile/anasfareedi78671" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/AnasFareedi/" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/anas_fareedi_" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" height="30" width="40" />
   </a>
 </p>
+
+
 
 
 
