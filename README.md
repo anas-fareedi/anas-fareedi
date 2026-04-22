@@ -100,16 +100,13 @@
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></td>
-    <td><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/></td>
   </tr>
 
   <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" width="40"/></td>
-  </tr>
-
-  <tr>
+    <td><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" width="40"/></td>
