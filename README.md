@@ -96,27 +96,29 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-orignal.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/openCV.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/YOLO.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/motia.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/Langchain.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/LangGraph.svg" width="40"/></td>
-  </tr>
+    <tr>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></td>
+  <td><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="40"/></td>
+  <td><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40"/></td> <!-- fallback -->
+  <td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td> <!-- LangChain -->
+  <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
+  <td><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/></td>
+</tr>
 
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/claude.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/openai.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40"/></td>    
-    <td><img src="https://cdn.worldvectorlogo.com/logos/huggingface.svg" width="40"/></td>    
-    <td><img src="https://cdn.worldvectorlogo.com/logos/kaggle.svg" width="40"/></td>    
+<tr>
+  <td><img src="https://avatars.githubusercontent.com/u/116008343?s=200&v=4" width="40"/></td> <!-- Claude -->
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></td>
+  <td><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/></td> <!-- n8n -->
+  <td><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/></td>
+</tr>   
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" width="40"/></td>
     <td><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" width="40"/></td>
