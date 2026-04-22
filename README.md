@@ -71,6 +71,7 @@
 <tr>
   <td><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40"/></td> <!-- fallback -->
   <td><img src="https://logo.clearbit.com/anthropic.com" width="40"/></td> <!-- Claude (Anthropic) -->
+  <td>  <img src="https://logo.clearbit.com/google.com" width="40"/></td> <!-- Gemini (Google) -->
   <td><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/></td>
   <td><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/></td> <!-- n8n -->
   <td><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/></td>  
