@@ -60,15 +60,14 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td> <!-- Scikit-learn -->
     <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></td>  
     <td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td> <!-- LangChain -->
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td> <!-- Scikit-learn -->
     <td><img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="40"/></td> <!-- Claude (Anthropic) -->
-    <td><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40"/></td> <!-- Google Cloud -->
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></td> <!-- OpenAI -->
+    <td><img src="https://cdn.simpleicons.org/openai/white" width="40"/></td> <!-- ChatGPT / OpenAI -->
 </tr>
 
 <tr>
@@ -83,6 +82,7 @@
   <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" width="40"/></td>
   <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" width="40"/></td>
   <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" width="40"/></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40"/></td> <!-- Google Cloud -->
 </tr>
 </table>
 
