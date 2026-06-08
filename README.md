@@ -72,18 +72,8 @@
 </tr>
 
 <tr>
-  <td>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40"/>
-</td> <!-- Cursor -->
-  <td>
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/cursor.png" width="40"/>
-</td>
-  <td>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/mcp.png" width="40"/>
-</td> <!-- MCP -->
-  <td>
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mcp.png" width="40"/>
-</td>
+  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40"/></td> <!-- Cursor --> 
+  <td><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mcp.png" width="40"/></td><!-- MCP -->
   <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" width="40"/></td>
   <td><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/></td>
   <td><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/></td> <!-- n8n -->
