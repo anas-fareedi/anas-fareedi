@@ -68,7 +68,6 @@
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
     <td><img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="40"/></td> <!-- Claude (Anthropic) -->
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" /></td> <!-- ChatGPT / OpenAI -->
-    <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" style="filter: invert(1);" /></td> <!-- ChatGPT / OpenAI -->
     
 </tr>
 
