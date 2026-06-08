@@ -65,6 +65,8 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></td>  
     <td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td> <!-- LangChain -->
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td> <!-- Scikit-learn -->
+    <td><img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="40"/></td> <!-- Claude (Anthropic) -->
 </tr>
 
 <tr>
