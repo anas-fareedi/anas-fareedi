@@ -67,6 +67,8 @@
     <td><img src="https://avatars.githubusercontent.com/u/156586563?s=200&v=4" width="40"/></td> <!-- LangGraph -->
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td> <!-- Scikit-learn -->
     <td><img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="40"/></td> <!-- Claude (Anthropic) -->
+    <td><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40"/></td> <!-- Google Cloud -->
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></td> <!-- OpenAI -->
 </tr>
 
 <tr>
